@@ -37,9 +37,7 @@ while(i<myArr.length){
 
 
 
-1️⃣ Print numbers from 1 to N using a loop.
-  //Print numbers from 1 to N using a loop.
-
+//1️ Print numbers from 1 to N using a loop.
 for(let i=1; i<=10; i++){
   console.log(i);
 }
