@@ -48,17 +48,13 @@ for(let i=1; i<=10; i++){
 
 
 
-
-
-
-
-
-
-
-
-
   
 2️⃣ Print numbers from N to 1 using a loop.
+  //Print numbers from N to 1 using a loop.
+for(let i=10; i>=1; i--){
+  console.log(i);
+}
+
 3️⃣ Print the first N even numbers.
 4️⃣ Print the first N odd numbers.
 5️⃣ Find the sum of digits of a given number.
