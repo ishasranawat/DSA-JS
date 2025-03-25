@@ -8,3 +8,4 @@
 8️⃣ Find the LCM (Least Common Multiple) of an array.
 9️⃣ Print the Collatz sequence for a given number (n → n/2 if even, 3n+1 if odd, until 1).
 🔟 Find the sum of all numbers in a Fibonacci series up to N.
+  
