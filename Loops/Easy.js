@@ -53,12 +53,5 @@ for(let i=10; i>=1; i--){
   console.log(i);
 }
 
-3️⃣ Print the first N even numbers.
-4️⃣ Print the first N odd numbers.
-5️⃣ Find the sum of digits of a given number.
-6️⃣ Count the number of digits in a number.
-7️⃣ Find the sum of all even digits in a number.
-8️⃣ Find the sum of all odd digits in a number.
-9️⃣ Find the factorial of a number.
-🔟 Reverse a number (1234 → 4321).
+
 
