@@ -55,7 +55,6 @@ console.log(sum);
 
 
 //Count the number of digits in a number.
-
 let count=0;
 let digit=12345678;
 digit= String(digit)
@@ -78,13 +77,7 @@ for(let i=0; i<num.length; i++){
 console.log(sum);
 
 
-
-
-
-
-
 // Find the sum of all odd digits in a number.
-
 let sum=0;
 let num= 123456789;
 num=String(num);
