@@ -1,4 +1,4 @@
-These will help you get comfortable with loops.
+
 
 1️⃣ Print numbers from 1 to N using a loop.
 2️⃣ Print numbers from N to 1 using a loop.
