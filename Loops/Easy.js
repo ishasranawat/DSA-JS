@@ -37,12 +37,27 @@ while(i<myArr.length){
 
 
 
-
-
-
-
-
 1️⃣ Print numbers from 1 to N using a loop.
+  //Print numbers from 1 to N using a loop.
+
+for(let i=1; i<=10; i++){
+  console.log(i);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 2️⃣ Print numbers from N to 1 using a loop.
 3️⃣ Print the first N even numbers.
 4️⃣ Print the first N odd numbers.
